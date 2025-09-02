@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+gtts
+googletrans==4.0.0rc1
+pillow
+opencv-python
+pyttsx3
+fpdf
+python-docx
+qrcode[pil]
+speechrecognition
+pyaudio
